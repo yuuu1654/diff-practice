@@ -9,4 +9,4 @@ featureブランチで編集しました。
 
 rebase-practiceブランチで編集しました。
 
-mainブランチで編集しました。conflict用
+rebase-practiceブランチで編集しました。(conflict用)
