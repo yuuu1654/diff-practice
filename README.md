@@ -10,3 +10,5 @@ featureブランチで編集しました。
 rebase-practiceブランチで編集しました。
 
 rebase-practiceブランチで編集しました。(conflict用)
+
+rebase用のリモートリポジトリでのコミット
