@@ -14,3 +14,5 @@ rebase-practiceブランチで編集しました。(conflict用)
 rebase用のリモートリポジトリでのコミット
 本来の作業の編集になります。
 stashに入れる用の変更内容です
+
+track済みのファイルの編集です

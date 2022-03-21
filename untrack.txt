@@ -1,0 +1,1 @@
+git stash で　stashされません変更です
