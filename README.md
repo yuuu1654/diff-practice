@@ -18,3 +18,5 @@ stashに入れる用の変更内容です
 track済みのファイルの編集です
 
 second stash
+
+tag同士のdiffを比較する
