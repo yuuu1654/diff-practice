@@ -20,3 +20,5 @@ track済みのファイルの編集です
 second stash
 
 tag同士のdiffを比較する
+
+tag同士のdiffを比較する(2回目)
